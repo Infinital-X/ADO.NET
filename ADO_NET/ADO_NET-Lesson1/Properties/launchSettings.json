@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ADO_NET-Lesson1": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
